@@ -33,7 +33,7 @@ AirControl AI uses **MediaPipe Hand Landmarker** for hand tracking and **PyAutoG
 
 ## 📸 Gesture Guide
 
-![AirControl AI Hand Gestures Guide](gesture-guide.jpeg)
+![AirControl AI Hand Gestures Guide](Gesture-guide.jpeg)
 
 ## 🧠 How It Works
 
