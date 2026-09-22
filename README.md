@@ -30,6 +30,11 @@ AirControl AI uses **MediaPipe Hand Landmarker** for hand tracking and **PyAutoG
 | 🤟 Three fingers  | Open Windows Task View         |
 | 🔄 Toggle gesture | Enable / pause desktop control |
 
+
+## 📸 Gesture Guide
+
+![AirControl AI Hand Gestures Guide](gesture-guide.jpeg)
+
 ## 🧠 How It Works
 
 AirControl AI processes the camera feed through a real-time computer vision pipeline:
